@@ -62,7 +62,8 @@ endmodule
 <img width="553" alt="Exd-10" src="https://github.com/Keerthana-VJ/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149347704/e36d74d9-0a9f-4b59-ad23-aa85fcd65344">
 
 ## TIMING DIGRAMS FOR SISO Shift Register:
-<img width="872" alt="Exd-10(1)" src="https://github.com/Keerthana-VJ/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149347704/71af776e-f6b2-4b48-ba2f-b56a6b4edc47">
+
+![324244048-b0182cc2-4c6c-4fca-9aed-811e977833cc](https://github.com/Keerthana-VJ/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/149347704/73410eae-66db-4520-bc98-e595daf5dd79)
 
 
 ## RESULTS:
